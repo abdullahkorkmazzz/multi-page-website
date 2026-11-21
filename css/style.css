@@ -1,3 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+
+
 /**************************** colors ******************************/
 .red {
     color: red;
@@ -37,11 +42,4 @@
 
 .crimson {
     color: crimson;
-}
-
-
-/**************************** font-family ******************************/
-
-.sans-serif {
-    font-family: sans-serif;
 }
